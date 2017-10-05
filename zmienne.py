@@ -3,14 +3,6 @@
 print(f"Hej {input('Podaj imie: ')}!")
 wiek = float(input('Podaj wiek: '))
 
-nowa_zmienna = 0
-
-if wiek >= 18.0:
-    print('Jesteś pełnoletni!')
-    nowa_zmienna = 1
-else:
-    print('Jesteś niepełnoletni!')
-
 print(wiek)
 
 if round(wiek) == wiek:
