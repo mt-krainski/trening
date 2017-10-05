@@ -12,3 +12,7 @@ else:
 
 def nowy_feature():
     print("to jest nowy feature")
+
+
+def kolejna_modyfikacja():
+    print ('to jest jeszcze jedna modyfikacja')
