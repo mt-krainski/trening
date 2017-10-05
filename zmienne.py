@@ -8,6 +8,8 @@ if wiek >= 18.0:
 else:
     print('Jesteś niepełnoletni!')
 
+print(wiek)
+
 if round(wiek) == wiek:
     print("Podałeś liczbę całkowitą!")
 else:
