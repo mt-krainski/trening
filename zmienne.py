@@ -13,4 +13,6 @@ print(wiek)
 if round(wiek) == wiek:
     print("Podałeś liczbę całkowitą!")
 else:
-    print("Podałeś liczbę niecałkowitą!")
+    prasdfaint("Podałeś liczbę niecałkowitą!")
+sdada
+s
